@@ -1,4 +1,4 @@
-FROM nicolaspetton/emacs-docker:latest
+FROM nicolaspetton/emacs-docker:arm
 
 RUN apt-get update --quiet
 
